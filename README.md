@@ -1,18 +1,115 @@
-# 💫 About Me:
-Tech Stack -><br>Languages: C, C++, Python<br>Skills: Data Science (Python Libraries), Data Structures & Algorithms<br>I am currently working on -> Building strong foundations in Data Science, Machine Learning, and Data Structures & Algorithms<br>I am currently learning -> Advanced Data Science Python libraries, Exploratory Data Analysis, Visualization techniques, and core DSA<br>Fun fact -> I enjoy exploring new technologies just like I enjoy exploring new cuisines — always curious, always learning!<br>
+<div align="center">
 
+<table width="100%">
+<tr>
+<td width="64%" valign="middle">
+<p><sub>RECRUITER SIGNAL BRIEF · sat-06</sub></p>
+<h1>Satyam Kulkarni</h1>
+<h2>Frontend or full-stack engineer</h2>
+<p>Turning data into insights and algorithms into solutions.</p>
+<p><strong>● Building and sharing work in public</strong></p>
+<p><sub>Based in PUNE · Building at AISSMS IOIT</sub></p>
+<p><a href="https://github.com/sat-06">GitHub</a> &nbsp;·&nbsp; <a href="https://satyam-portfolio-eosin.vercel.app/">Website</a></p>
+</td>
+<td width="36%" valign="middle" align="center">
+<img src="https://avatars.githubusercontent.com/u/177254512?v=4" width="180" alt="Satyam Kulkarni GitHub avatar" />
+</td>
+</tr>
+</table>
+</div>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/satyam.k_12) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/https://www.linkedin.com/in/satyam-kulkarni-a0a977340/) 
+<h2>What teams can evaluate quickly</h2>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=sat-06&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=sat-06&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sat-06&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<table width="100%">
+<tr>
+<td width="33%" valign="top"><h3>Role fit</h3><p>Frontend or full-stack engineer · Jupyter Notebook · TypeScript · Python</p></td>
+<td width="33%" valign="top"><h3>Public proof</h3><p>23 repositories · 2 stars</p></td>
+<td width="33%" valign="top"><h3>Momentum</h3><p>680 contributions · 172 active days</p></td>
+</tr>
+</table>
 
----
-[![](https://visitcount.itsvg.in/api?id=sat-06&icon=0&color=0)](https://visitcount.itsvg.in)
+<p><sub>Turning data into insights and algorithms into solutions.</sub></p>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<h2>Proof at a glance</h2>
+
+<table width="100%">
+<tr>
+<td width="25%" align="center"><strong>23</strong><br /><sub>Repositories</sub></td>
+<td width="25%" align="center"><strong>2</strong><br /><sub>Stars</sub></td>
+<td width="25%" align="center"><strong>680</strong><br /><sub>Contributions</sub></td>
+<td width="25%" align="center"><strong>7</strong><br /><sub>Followers</sub></td>
+</tr>
+</table>
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=sat-06&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F177254512%3Fv%3D4&v=recruiter-stats-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stats?username=sat-06&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F177254512%3Fv%3D4&v=recruiter-stats-1&mode=dark" width="100%" alt="Satyam Kulkarni GitHub proof metrics" />
+</picture>
+</p>
+
+<h2>Selected work</h2>
+
+<table width="100%">
+<tr>
+<td width="58%" valign="top">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=sat-06&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F177254512%3Fv%3D4&repos=sat-06%2FUpSkillX%2Csat-06%2FInsurAI%2Csat-06%2FSIH_2026%2Csat-06%2FDigital_Behavior_Fingerprint&v=recruiter-projects-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/projects?username=sat-06&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F177254512%3Fv%3D4&repos=sat-06%2FUpSkillX%2Csat-06%2FInsurAI%2Csat-06%2FSIH_2026%2Csat-06%2FDigital_Behavior_Fingerprint&v=recruiter-projects-1&mode=dark" width="100%" alt="Satyam Kulkarni selected projects" />
+</picture>
+</td>
+<td width="42%" valign="top">
+<h3><a href="https://github.com/sat-06/UpSkillX">UpSkillX</a></h3>
+<p>A selected public project.</p>
+<p><sub>TypeScript · ⭐ 1 · 🍴 0</sub></p>
+<p><a href="https://github.com/sat-06/UpSkillX">Read the repository →</a></p>
+</td>
+</tr>
+</table>
+
+<table width="100%">
+<tr>
+<td width="33%" valign="top"><h3><a href="https://github.com/sat-06/InsurAI">InsurAI</a></h3><p>A selected public project.</p><p><sub>Jupyter Notebook · ⭐ 1</sub></p></td>
+<td width="33%" valign="top"><h3><a href="https://github.com/sat-06/SIH_2026">SIH_2026</a></h3><p>A selected public project.</p><p><sub>TypeScript · ⭐ 0</sub></p></td>
+<td width="33%" valign="top"><h3><a href="https://github.com/sat-06/Digital_Behavior_Fingerprint">Digital_Behavior_Fingerprint</a></h3><p>A selected public project.</p><p><sub>Jupyter Notebook · ⭐ 0</sub></p></td>
+</tr>
+</table>
+
+<h2>Technical toolkit</h2>
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=sat-06&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F177254512%3Fv%3D4&v=recruiter-stack-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stack?username=sat-06&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F177254512%3Fv%3D4&v=recruiter-stack-1&mode=dark" width="100%" alt="Satyam Kulkarni technology stack" />
+</picture>
+</p>
+
+<table width="100%">
+<tr>
+<td width="20%" align="center"><strong>Jupyter Notebook</strong><br /><sub>42% of public code</sub></td>
+<td width="20%" align="center"><strong>TypeScript</strong><br /><sub>38% of public code</sub></td>
+<td width="20%" align="center"><strong>Python</strong><br /><sub>14% of public code</sub></td>
+<td width="20%" align="center"><strong>JavaScript</strong><br /><sub>3% of public code</sub></td>
+<td width="20%" align="center"><strong>CSS</strong><br /><sub>3% of public code</sub></td>
+</tr>
+</table>
+
+<h2>Consistency signal</h2>
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=sat-06&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F177254512%3Fv%3D4&v=recruiter-heatmap-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/heatmap?username=sat-06&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F177254512%3Fv%3D4&v=recruiter-heatmap-1&mode=dark" width="100%" alt="Satyam Kulkarni contribution activity" />
+</picture>
+</p>
+
+<hr />
+
+<table width="100%">
+<tr>
+<td width="62%" valign="middle"><h2>Let’s talk about the next build</h2><p>Open to thoughtful teams, ambitious products, and useful engineering work.</p></td>
+<td width="38%" valign="middle" align="right"><a href="https://github.com/sat-06">GitHub</a><br /><a href="https://satyam-portfolio-eosin.vercel.app/">Website</a></td>
+</tr>
+</table>
+
+<p align="center"><sub>Satyam Kulkarni · recruiter-ready profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
