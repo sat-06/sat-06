@@ -2,9 +2,7 @@
 <div align="center">
 
 <!-- CUSTOM HEADER IMAGE -->
-<img src="./assets/header.png"
-     width="100%"
-     alt="Satyam Kulkarni Header" />
+<img src="./assets/header.png" width="100%" alt="Satyam Kulkarni Header" />
 
 <!-- NAME -->
 <h1>SATYAM KULKARNI</h1>
